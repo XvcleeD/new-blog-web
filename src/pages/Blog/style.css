@@ -24,6 +24,7 @@ display: block;
 
 .blog-wrap img{
   width: 100%;
+  border-radius: 15px;
 }
 
 .blog-subCategory{
